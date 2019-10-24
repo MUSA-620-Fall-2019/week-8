@@ -37,7 +37,7 @@ dependencies:
   - pyviz::datashader
   - intake
   - intake-parquet
-  - intake-array
+  - intake-xarray
   - dask
   - fastparquet
   - python-snappy
